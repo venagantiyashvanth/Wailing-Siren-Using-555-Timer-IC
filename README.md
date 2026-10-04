@@ -113,3 +113,11 @@ The circuit is not suitable for applications where the sound needs to be switche
 **Veanaganti Yashvanth**
 
 B.Tech – Electronics and Communication Engineering
+
+
+
+
+## Circuit Diagram
+
+![Circuit Diagram]
+(Circuit%20Diagram.jpeg)
